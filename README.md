@@ -1,2 +1,2 @@
 # millerjisaac
-website URL: https://jimiller76.github.io/millerjisaac
+PDFs for website, URL: https://sites.google.com/site/millerjisaac/
