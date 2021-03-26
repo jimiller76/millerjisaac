@@ -1,2 +1,2 @@
 # millerjisaac.github.io
-wesbsite
+website
